@@ -1,0 +1,16 @@
+/home/candinho/Documentos/ToyCRUDEscola/src/main/java/br/com/escola/model/service/CoordenadorService.java
+/home/candinho/Documentos/ToyCRUDEscola/src/main/java/br/com/escola/model/domain/Coordenador.java
+/home/candinho/Documentos/ToyCRUDEscola/src/main/java/br/com/escola/model/service/AlunoService.java
+/home/candinho/Documentos/ToyCRUDEscola/src/main/java/br/com/escola/model/domain/Pessoa.java
+/home/candinho/Documentos/ToyCRUDEscola/src/main/java/br/com/escola/model/domain/Calculadora.java
+/home/candinho/Documentos/ToyCRUDEscola/src/main/java/br/com/escola/controller/ProfessorServlet.java
+/home/candinho/Documentos/ToyCRUDEscola/src/main/java/br/com/escola/model/service/ProfessorService.java
+/home/candinho/Documentos/ToyCRUDEscola/src/main/java/br/com/escola/controller/AlunoServlet.java
+/home/candinho/Documentos/ToyCRUDEscola/src/main/java/br/com/escola/model/domain/Professor.java
+/home/candinho/Documentos/ToyCRUDEscola/src/main/java/br/com/escola/model/dao/AlunoDao.java
+/home/candinho/Documentos/ToyCRUDEscola/src/main/java/br/com/escola/model/domain/OperacaoSoma.java
+/home/candinho/Documentos/ToyCRUDEscola/src/main/java/br/com/escola/controller/CoordenadorServlet.java
+/home/candinho/Documentos/ToyCRUDEscola/src/main/java/br/com/escola/model/dao/CoordenadorDao.java
+/home/candinho/Documentos/ToyCRUDEscola/src/main/java/br/com/escola/model/domain/Aluno.java
+/home/candinho/Documentos/ToyCRUDEscola/src/main/java/br/com/escola/model/domain/OperacaoMatematica.java
+/home/candinho/Documentos/ToyCRUDEscola/src/main/java/br/com/escola/model/dao/ProfessorDao.java
